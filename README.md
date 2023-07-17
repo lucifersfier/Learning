@@ -1,2 +1,1 @@
-# Learning
-i am trying to learn the concepts of git and gitbash
+Regression Model to predict cement compressive strength
